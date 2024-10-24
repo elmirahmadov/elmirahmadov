@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXwLIZaPTYBwVr990VS_jx0trhiIRLJMP8g&s))
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQFMxThwQn7HZg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697274440798?e=2147483647&v=beta&t=QLEHZgio8uRKebsNCrjEdh3rOvVmSUa7dSYgzCPBxBo)
 <h1 align="center">Hi 👋, I'm Elmir Ahmadov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
