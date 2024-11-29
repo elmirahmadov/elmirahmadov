@@ -4,7 +4,7 @@ I am a MERN stack developer who is mostly in the learning phase.
 I trust myself
 I'm open to new offers 💪
 
-[![Linkedin: elmirahmadov](https://img.shields.io/badge/-elmirahmadov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/elmir-ahmadov-306b941a4/)](https://www.linkedin.com/in/elmirahmadov-306b941a4/)
+[![Linkedin: elmirahmadov](https://img.shields.io/badge/-elmirahmadov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/elmir-ahmadov-18244b33b/)](https://www.linkedin.com/in/elmir-ahmadov-18244b33b/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/elmirahmadov?label=follow&style=social)](https://github.com/elmirahmadov)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmirahmadov&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
