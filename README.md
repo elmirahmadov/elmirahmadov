@@ -7,11 +7,9 @@ Full Stack & Mobile Developer | Frontend (React, Next.js) | Backend (Node.js, Ex
   <a href="https://www.linkedin.com/in/elmir-ahmadov-18244b33b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@elmirahmadov-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://github.com/elmirahmadov" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@elmirahmadov-black?style=flat-square&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://komarev.com/ghpvc/?username=elmirahmadov" target="_blank">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=elmirahmadov&color=0e75b6&style=flat-square"/>
   </a>
