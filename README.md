@@ -1,5 +1,7 @@
 <h1 align="center">Elmir Ahmadov 👋</h1>
-<h3 align="center">Full Stack Developer | MERN + SQL | Backend Focused 🚀</h3>
+<h3 align="center">
+Full Stack & Mobile Developer | Frontend (React, Next.js) | Backend (Node.js, Express, NestJS, SQL/NoSQL) | Mobile (React Native) 🚀
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elmir-ahmadov-18244b33b/">
@@ -71,8 +73,4 @@ I'm a versatile **Full Stack & Mobile Developer** with strong focus on building 
 
 <p align="center">
   <img src="https://github.com/elmirahmadov/elmirahmadov/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <sub>⚡ Generated from my GitHub contribution graph</sub>
 </p>
