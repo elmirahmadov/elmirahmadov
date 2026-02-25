@@ -14,10 +14,9 @@
 ---
 
 ### 👨‍💻 About Me
-
 🚀 Backend-focused Full Stack Developer  
-🗄️ SQL + NoSQL architecture  
-⚡ Building scalable APIs  
+🗄️ SQL + NoSQL Architecture  
+⚡ Scalable API Development  
 🤝 Open to remote & freelance work  
 
 ---
@@ -25,7 +24,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,mysql,postgresql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,nestjs,mongodb,mysql,postgresql,redis,prisma,docker,nginx,linux,git,github,postman,figma,vscode" />
 </p>
 
 ---
@@ -35,9 +34,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elmirahmadov&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elmirahmadov&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=elmirahmadov&theme=tokyonight&hide_border=true"/>
 </p>
 
