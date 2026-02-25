@@ -4,16 +4,19 @@ Full Stack & Mobile Developer | Frontend (React, Next.js) | Backend (Node.js, Ex
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elmir-ahmadov-18244b33b/" target="_blank" style="text-decoration:none;margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/elmir-ahmadov-18244b33b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@elmirahmadov-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/elmirahmadov" target="_blank" style="text-decoration:none;margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <!-- GitHub -->
+  <a href="https://github.com/elmirahmadov" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@elmirahmadov-black?style=flat-square&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://komarev.com/ghpvc/?username=elmirahmadov" target="_blank" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/visible.png" width="40" height="40" alt="Profile Views"/>
+  <!-- Profile Views -->
+  <a href="https://komarev.com/ghpvc/?username=elmirahmadov" target="_blank">
+    <img alt="Profile Views" src="https://img.shields.io/badge/Profile-Views-1A4730?style=flat-square&logo=eye&logoColor=white"/>
   </a>
 </p>
 
