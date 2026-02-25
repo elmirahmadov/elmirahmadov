@@ -14,10 +14,17 @@
 ---
 
 ### 👨‍💻 About Me
-🚀 Backend-focused Full Stack Developer  
-🗄️ SQL + NoSQL Architecture  
-⚡ Scalable API Development  
-🤝 Open to remote & freelance work  
+
+I'm a versatile **Full Stack & Mobile Developer** with strong focus on building scalable and performant applications.
+
+🔹 **Frontend Developer** – React, Next.js, TypeScript, modern UI/UX  
+🔹 **Backend Developer** – Node.js, Express, REST APIs, Authentication, Scalable Architecture  
+🔹 **Mobile Developer** – React Native & cross-platform application development  
+
+🗄️ Experienced with both **SQL (MySQL, PostgreSQL)** and **NoSQL (MongoDB)** databases  
+⚡ Passionate about clean code, performance optimization, and system design  
+🚀 Currently improving my backend architecture & DevOps knowledge  
+🤝 Open to remote jobs, freelance projects, and collaborations  
 
 ---
 
