@@ -13,6 +13,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elmirahmadov&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elmirahmadov&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=elmirahmadov&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 I'm a versatile **Full Stack & Mobile Developer** with strong focus on building scalable and performant applications.
@@ -59,16 +69,6 @@ I'm a versatile **Full Stack & Mobile Developer** with strong focus on building 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elmirahmadov&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elmirahmadov&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=elmirahmadov&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 <p align="center">
