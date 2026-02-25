@@ -28,12 +28,24 @@ I'm a versatile **Full Stack & Mobile Developer** with strong focus on building 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elmirahmadov&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elmirahmadov&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=elmirahmadov&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elmirahmadov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmirahmadov&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=elmirahmadov&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmirahmadov&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elmirahmadov&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elmirahmadov&theme=tokyonight"/>
 </p>
 
 ---
@@ -69,8 +81,15 @@ I'm a versatile **Full Stack & Mobile Developer** with strong focus on building 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
+
 ---
 
+## 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://github.com/elmirahmadov/elmirahmadov/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/elmirahmadov/elmirahmadov/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <sub>⚡ Generated from my GitHub contribution graph</sub>
 </p>
