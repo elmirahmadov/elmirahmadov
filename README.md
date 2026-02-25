@@ -30,10 +30,35 @@ I'm a versatile **Full Stack & Mobile Developer** with strong focus on building 
 
 ### 🛠 Tech Stack
 
+#### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,nestjs,mongodb,mysql,postgresql,redis,prisma,docker,nginx,linux,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,bootstrap" />
 </p>
 
+#### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+#### 🗄️ Databases & ORM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,prisma" />
+</p>
+
+#### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+#### 🚀 DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions" />
+</p>
+
+#### 🛠 Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
 ---
 
 ### 📊 GitHub Stats
